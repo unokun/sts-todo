@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "scheduler.interval",
+  "type": "java.lang.String",
+  "description": "スケジューラーインターバル"
+}]}
